@@ -4,3 +4,6 @@ function cat(){
     alert("find the mouse")
 }
 
+function cat2(){
+    console.log("this is a cat")
+}
