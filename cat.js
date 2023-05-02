@@ -9,3 +9,4 @@ function cat2(){
 }
 console.log("this is a cat")
 
+let Tom = "Tom"
