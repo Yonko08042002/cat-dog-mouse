@@ -7,3 +7,5 @@ function cat(){
 function cat2(){
     console.log("this is a cat")
 }
+console.log("this is a cat")
+
