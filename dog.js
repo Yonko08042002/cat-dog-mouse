@@ -4,3 +4,9 @@ function dog(){
 }
 
 console.log("sadasdad")
+
+console.log("day la dog")
+
+console.log("clm")
+// dây là chó
+
