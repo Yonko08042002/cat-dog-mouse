@@ -6,3 +6,4 @@ function dog(){
 console.log("sadasdad")
 
 console.log("clm")
+// dây là chó
